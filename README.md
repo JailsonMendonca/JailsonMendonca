@@ -35,8 +35,8 @@ funny, it's up to you to choose. </p>
 
 ###
 
-<h2 align="left">Portfolio Link</h2>
+<h2 align="left">My Portfolio</h2>
 
 ###
-[My Portfolio](https://jailson-mendonca.vercel.app/)
+[Portfolio Link](https://jailson-mendonca.vercel.app/)
 
