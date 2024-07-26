@@ -38,10 +38,5 @@ funny, it's up to you to choose. </p>
 <h2 align="left">My portfolio</h2>
 
 ###
+[My Portfolio](https://jailson-mendonca.vercel.app/)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-</div>
-
-###
